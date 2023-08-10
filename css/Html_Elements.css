@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 80px;
+}
+header{
+    text-align: center;
+    padding-bottom: 10px;
+}
+span{
+    color: cyan;
+    font-size: 25px;
+}
+nav a{
+    color: blue;
+    padding-right: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table td{
+    border: 1px solid black;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul li{
+    list-style-type: square;
+}
+ol ol{
+    list-style-type: upper-alpha;
+}
+div{
+    width: 100%;
+    background-color:whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+section{
+    padding-left: 50px;
+    padding-right: 70px;
+}
+footer{
+    text-align: center;
+    background-color: lightgray;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
